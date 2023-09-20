@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Арен Тоноян](https://up.htmlacademy.ru/htmlcss/38/user/2372531).
-* Наставник: `Виктор Рыбаков`.
+* Наставник: `Виктор Рыбаков` (https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
